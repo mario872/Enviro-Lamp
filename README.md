@@ -1,2 +1,8 @@
-# RGB Lamp
- A lamp shade that houses a microcontroller, infrared LED, single colour LED, and 24 Neopixel Ring for school.
+# Enviro Lamp
+This is a project ofr school, but because I *enhanced* it, I though I'd open source the code for it so that someone else can maybe build on it, or at the very least so I don't lose the code.
+
+This was run only on the Waveshare RP2040-Zero running Adafruit Circuitpython.
+
+More documentation on the code is available in the /src directory.
+
+The lamp design can be found in / under design.pdf
